@@ -58,9 +58,8 @@ performance
 years_of_experience
 projects_completed
 
-Target:
+Target: Bonus
 
-bonus
 🛠️ Tech Stack
 Language: Python / Java (update based on your implementation)
 Libraries: NumPy / Pandas (if used)
